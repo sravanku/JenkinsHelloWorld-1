@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main(String[] args){
-		System.out.println("-----***** Poll SCM Update *****-----");
+		System.out.println("-----***** Webhook Example *****-----");
 	}
 }
